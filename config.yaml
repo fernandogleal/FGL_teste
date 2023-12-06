@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: https://fernandogleal.github.io/FGL_teste/
 languageCode: pt-BR
 title: FGL Blog
 theme: hugo-lithium
@@ -15,7 +15,7 @@ menu:
     - name: About
       url: /about/
     - name: GitHub
-      url: https://fernandogleal.github.io/FGL_teste
+      url: https://fernandogleal.github.io/FGL_teste/
     - name: Twitter
       url: https://twitter.com/rstudio
 params:
@@ -41,3 +41,4 @@ markup:
       unsafe: yes
   highlight:
     codeFences: no
+publishDir: "docs"
