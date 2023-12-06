@@ -2,37 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://fernandogleal.github.io/FGL_teste/2023/12/05/blog-post-01/</loc>
+    <loc>http://teste.fgl.dev.br/about/</loc>
+    <lastmod>2023-12-05T21:48:51-07:00</lastmod>
+  </url><url>
+    <loc>http://teste.fgl.dev.br/2023/12/05/blog-post-01/</loc>
     <lastmod>2023-12-05T13:09:13-06:00</lastmod>
   </url><url>
-    <loc>https://fernandogleal.github.io/FGL_teste/</loc>
+    <loc>http://teste.fgl.dev.br/</loc>
     <lastmod>2023-12-05T13:09:13-06:00</lastmod>
   </url><url>
-    <loc>https://fernandogleal.github.io/FGL_teste/post/</loc>
+    <loc>http://teste.fgl.dev.br/post/</loc>
     <lastmod>2023-12-05T13:09:13-06:00</lastmod>
   </url><url>
-    <loc>https://fernandogleal.github.io/FGL_teste/categories/</loc>
+    <loc>http://teste.fgl.dev.br/categories/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://fernandogleal.github.io/FGL_teste/2020/12/01/hello-r-markdown/</loc>
+    <loc>http://teste.fgl.dev.br/2020/12/01/hello-r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://fernandogleal.github.io/FGL_teste/tags/plot/</loc>
+    <loc>http://teste.fgl.dev.br/tags/plot/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://fernandogleal.github.io/FGL_teste/categories/r/</loc>
+    <loc>http://teste.fgl.dev.br/categories/r/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://fernandogleal.github.io/FGL_teste/tags/r-markdown/</loc>
+    <loc>http://teste.fgl.dev.br/tags/r-markdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://fernandogleal.github.io/FGL_teste/tags/regression/</loc>
+    <loc>http://teste.fgl.dev.br/tags/regression/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://fernandogleal.github.io/FGL_teste/tags/</loc>
+    <loc>http://teste.fgl.dev.br/tags/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://fernandogleal.github.io/FGL_teste/2016/12/30/a-plain-markdown-post/</loc>
+    <loc>http://teste.fgl.dev.br/2016/12/30/a-plain-markdown-post/</loc>
     <lastmod>2016-12-30T21:49:57-07:00</lastmod>
   </url>
 </urlset>

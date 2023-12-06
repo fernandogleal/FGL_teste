@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on FGL Blog</title>
-    <link>https://fernandogleal.github.io/FGL_teste/categories/</link>
+    <link>http://teste.fgl.dev.br/categories/</link>
     <description>Recent content in Categories on FGL Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate>
-    <atom:link href="https://fernandogleal.github.io/FGL_teste/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://teste.fgl.dev.br/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>https://fernandogleal.github.io/FGL_teste/categories/r/</link>
+      <link>http://teste.fgl.dev.br/categories/r/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://fernandogleal.github.io/FGL_teste/categories/r/</guid>
+      <guid>http://teste.fgl.dev.br/categories/r/</guid>
       <description></description>
     </item>
   </channel>
