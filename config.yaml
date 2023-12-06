@@ -1,4 +1,4 @@
-baseurl: https://fernandogleal.github.io/FGL_teste/
+baseurl: http://teste.fgl.dev.br/
 languageCode: pt-BR
 title: FGL Blog
 theme: hugo-lithium
